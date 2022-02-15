@@ -1,0 +1,6 @@
+Credentials cache: API:7C05E832-1E60-476D-85D8-DB75914D6CF9
+        Principal: bdurmus@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 22 10:07:00 2021  Nov 22 20:07:00 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Nov 22 10:07:02 2021  Nov 22 20:07:00 2021  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
